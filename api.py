@@ -2,7 +2,7 @@ from instabot import Bot
 import os 
 
 try:
-    os.remove("config/nintran68_uuid_and_cookie.json")
+    os.remove("config/nguyentranba141194@gmail.com_uuid_and_cookie.json")
 except:
     pass
 bot = Bot()
